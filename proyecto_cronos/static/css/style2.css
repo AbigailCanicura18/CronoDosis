@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: rgb(40,105,100);
+}
+.nav{
+    margin: 0 auto;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    h1{
+        color: #ccdbe1;
+    }
+    .a{
+        color: white;
+    }
+    
+}

@@ -36,11 +36,13 @@ body{
     }
 }
 .container2{
+    margin: 0 auto;
     background-color: #286964;
     border-radius: 50px;
     color: white;
     justify-content: center;
     padding: 50px;
+    width: 585px;
     h1{
         margin: 15px;
     }
