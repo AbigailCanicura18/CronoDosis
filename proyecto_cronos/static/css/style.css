@@ -1,0 +1,126 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: rgb(32,58,66);
+}
+.nav{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    img{
+        height: 100px;
+        width: 100px;
+        margin-top: 30px;
+    }
+}
+.container{
+    justify-content: center;
+    text-align: center;
+    margin-left: 10px;
+    img{
+        margin-top: -30px;
+        height: 20px;
+        width: 200px;
+    }
+    h1{
+        color: #09bc87;
+        font-size: 70px;
+    }
+    h2{
+        color: #0d7a54;
+        font-size: 45px;
+    }
+}
+.container2{
+    background-color: #286964;
+    border-radius: 50px;
+    color: white;
+    justify-content: center;
+    padding: 50px;
+    h1{
+        margin: 15px;
+    }
+}
+.container3{
+    display: flex;
+    margin-top: 60px;
+    
+    img{
+        height: 70px;
+        width:70px;
+    }
+}
+.container4{
+    padding-top: 20px;
+    color: #ccf6f6;
+    margin-left: 20px;
+}
+.container5{
+    background-color: #b4d6c5;
+    padding: 30px;
+    border-radius: 20px;
+    display: flex;
+    img{
+        margin-right: 10px;
+        height: 50px;
+    }
+}
+.container6{
+    h2{
+        color: #17474e;
+    }
+    p{
+        color: #17474e;
+    }
+}
+.container7{
+    background-color: #ccdbe1;
+    padding: 30px;
+    border-radius: 20px;
+    display: flex;
+    margin-top:20px;
+    img{
+        height: 50px;
+        margin-right: 10px;
+    }
+}
+.container8{
+    h2{
+        color: #17474e;
+    }
+    p{
+        color: #17474e;
+    }
+}
+.container9{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    p{
+        font-size: 20px;
+    }
+}
+.container10{
+    display: flex;
+    color: #15464d;
+    justify-content: center;
+    justify-content: space-around;
+    .btn{
+        background-color: #56c8bf;
+        height: 80px;
+        width: 160px;
+        border-radius: 30px;
+        font-size: 20px;
+    }
+    .btn2{
+        background-color: #56c8bf;
+        height: 80px;
+        width: 160px;
+        border-radius: 30px;
+        font-size: 20px;
+    }
+}
